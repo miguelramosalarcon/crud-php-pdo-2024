@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/BackEnd-PHP-orange" alt="BackEnd - PHP">
 </div>
 
-<p>Aplicación básica, utilizando PDO con PHP y MySql, sin estilos CSS. </p>
+<p>Aplicación básica, utilizando PDO con PHP y MySql, utilizando Bootstrap 5. </p>
 
 ## Extensiones Visual Studio Code
 - [x] PHP Intelephense
